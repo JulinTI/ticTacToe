@@ -176,6 +176,8 @@ function checkWinCondition() {
 
     }
 
+    // mudança
+
     if (b3.childNodes.length > 0 && b6.childNodes.length > 0 && b9.childNodes.length > 0) {
 
         let b3Child = b3.childNodes[0].className;
